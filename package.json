@@ -1,0 +1,12 @@
+{
+  "name": "active-model-adapter",
+  "version": "2.1.1",
+  "description": "The ActiveModelAdapter is a subclass of the RESTAdapter designed to integrate with a JSON API",
+  "keywords": [
+    "ember"
+  ],
+  "main": "./active-model-adapter.js",
+  "optionalDependencies": {
+    "ember": ">= 2.0.0 < 3.0.0"
+  }
+}
